@@ -1,2 +1,2 @@
-# BMdeeplearning-model
-some work on little basics I learned
+# deeplearning-model
+work on some basics I learned
